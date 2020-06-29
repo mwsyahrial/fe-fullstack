@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Backend for this project in : 
+https://github.com/mwsyahrial/be-fullstack
+
 Make sure node and npm installed.
 
 Git clone to local folders and run:  
